@@ -1,0 +1,17 @@
+python >=3.8
+pandas as pd
+os
+csv
+numpy as np
+xgboost 
+scikit-learn
+tensorflow
+keras
+tkinter
+datetime
+pygame
+random
+sys
+pyttsx3
+pandas
+time
